@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LinisHub.
+- 👀 I’m interested in skin and hair science.
+- 🌱 I’m currently learning Github.
+- 💞️ I’m looking to collaborate on low-code tools.
+- 📫 How to reach me *lini.strobl@hotmail.com*
